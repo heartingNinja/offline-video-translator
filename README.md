@@ -22,7 +22,6 @@ A Python GUI application that extracts audio from video files, transcribes and o
 - [whisper](https://pypi.org/project/openai-whisper/)
 - [pysrt](https://pypi.org/project/pysrt/)
 - [moviepy](https://pypi.org/project/moviepy/)
-- tkinter (usually included with Python)
 
 Install dependencies with:
 
